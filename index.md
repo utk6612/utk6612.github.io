@@ -7,32 +7,43 @@ layout: default
 <!-- [Link to another page](./another-page.html). -->
 
 # Skills
+HTML5, CSS3, JavaScript, Typescript, Python, SQL(Postgres), Elixir, C/C++, 
+React.js, Redux-Thunk, Redux-Saga, node.js (basics), AB Testing, Unit Testing, PWA, Rest
+APIs, Git, Lerna
 
 
-Here are some of my contributions,
+Here are some of the industry level projects which I have worked on,
 
 ## Goibibo-MakeMyTrip
 
 [Goibibo Hotels](https://goibibo.com/hotels/)
 
-◦ Developed search results and payments page of desktop web and progressive web app (PWA) for Goibibo Hotels, which caters to more than 25k users per day.
+*   Developed search results and payments page of desktop web and progressive web app (PWA) for Goibibo Hotels, which caters to more than 25k users per day.
+*   Won Go-Tripper of the Month Award in March’2020.
+*   Developed a web framework called Stencil which went beyond component-driven architecture to segregate business logic from UI in reusable libraries, reducing the man-hours for any future front-end developments (using Typescript, React.js, Redux and React Hooks).
+*   Collaborated with the product team to work towards increasing the conversion rate by 12% from the Search Results Page ([SRP](https://goibibo.com/hotels/hotels-in-goa-ct/)) to Payments Page by leveraging the power of AB Testing.
+*   Presented a prototype for solving the problem of price mismatch in SSR rendered cached pages which was implemented across different verticals increasing the conversion rate by 9% for organic traffic. [Link](https://goibibo.com/hotels/hotels-in-goa-ct/)
 
-◦ Won Go-Tripper of the Month Award in March’2020.
+## CoWrks
 
-◦ Developed a web framework called Stencil which went beyond component-driven architecture to segregate business logic from UI in reusable libraries, reducing the man-hours for any future front-end developments (using Typescript, React.js, Redux and React Hooks).
+*   Developed two customer facing products CoWrks and [Converge](https://converge.cowrks.com/) from scratch using React and Redux by adhering to component-driven architecture.
 
-◦ Collaborated with the product team to work towards increasing the conversion rate by 12% from the Search Results Page ([SRP](https://goibibo.com/hotels/hotels-in-goa-ct/)) to Payments Page by leveraging the power of AB Testing.
-
-◦ Presented a prototype for solving the problem of price mismatch in SSR rendered cached pages which was implemented across different verticals increasing the conversion rate by 9% for organic traffic. [Link](https://goibibo.com/hotels/hotels-in-goa-ct/)
-
-
-## [Converge](https://converge.cowrks.com/)
-
-*   Developed two customer facing products CoWrks and Converge from scratch using React and Redux by adhering to component-driven architecture.
 *   Developed custom middlewares using Javascript and Redux-Thunk for tracking user engagement which helped in reducing the customer acquisition cost of the company.
+
 *   Optimised performance of web applications by introducing a dynamic architecture and reducing the bundle size by more than 50% using server-side and client-side code splitting.
 
-### Header 3
+## HED Experts
+
+*   Took ownership and developed end to end core features like login, sign-up, payment gateway integration, and a simple recommendation engine (using React.js, Redux, HTML, CSS, Elixir, Phoenix and Postgres).
+
+*   Proposed a new UX based on analysis and data from Google Analytics, thereby developing a new student dashboard, which was one of the essential features of the product, increasing the user engagement by 25%.
+
+## Publicis.Sapient
+
+*   Developed an equity trading platform for portfolio managers, traders, and brokers of the stock market.
+*   My performance at Sapient rewarded me with an honoured title of Client-focused delivery.
+
+<!-- ### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -132,4 +143,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
