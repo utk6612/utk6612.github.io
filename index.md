@@ -26,11 +26,11 @@ Here are some of my contributions,
 ◦ Presented a prototype for solving the problem of price mismatch in SSR rendered cached pages which was implemented across different verticals increasing the conversion rate by 9% for organic traffic. [Link](https://goibibo.com/hotels/hotels-in-goa-ct/)
 
 
-## Converge
+## [Converge](https://converge.cowrks.com/)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+*   Developed two customer facing products CoWrks and Converge from scratch using React and Redux by adhering to component-driven architecture.
+*   Developed custom middlewares using Javascript and Redux-Thunk for tracking user engagement which helped in reducing the customer acquisition cost of the company.
+*   Optimised performance of web applications by introducing a dynamic architecture and reducing the bundle size by more than 50% using server-side and client-side code splitting.
 
 ### Header 3
 
