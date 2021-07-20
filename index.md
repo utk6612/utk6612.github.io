@@ -8,9 +8,19 @@ layout: default
 
 Here are some of my works,
 
-# Goibibo Hotels
+## Goibibo Hotels
 [Goibibo Hotels](https://goibibo.com/hotels/)
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+◦ Developed search results and payments page of desktop web and progressive web app (PWA) for Goibibo Hotels, which caters to more than 25k users per day - Goibibo Hotels.
+
+◦ Won Go-Tripper of the Month Award in March’2020.
+
+◦ Developed a web framework called Stencil which went beyond component-driven architecture to segregate business logic from UI in reusable libraries, reducing the man-hours for any future front-end developments (using Typescript, React.js, Redux and React Hooks).
+
+◦ Collaborated with the product team to work towards increasing the conversion rate by 12% from the Search Results Page (SRP) to Payments Page by leveraging the power of AB Testing. [SRP](https://goibibo.com/hotels/hotels-in-goa-ct/)
+
+◦ Presented a prototype for solving the problem of price mismatch in SSR rendered cached pages which was implemented across different verticals increasing the conversion rate by 9% for organic traffic. [Link](https://goibibo.com/hotels/hotels-in-goa-ct/)
+
 
 <!-- ## Header 2
 
