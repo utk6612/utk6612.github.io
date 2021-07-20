@@ -5,6 +5,9 @@ layout: default
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 <!-- [Link to another page](./another-page.html). -->
+I am currently pursuing my M.S. degree in Computer Science from NYU, Courant School of Mathematical Sciences, and offer 3.5 years of professional experience in the software industry with a focus on enterprise-level web applications, single-page applications, and progressive-web applications.
+
+Apart from my technical skills, I carry a good understanding of UI/UX and thrive on improving online products by understanding user behaviour.
 
 # Skills
 HTML5, CSS3, JavaScript, Typescript, Python, SQL(Postgres), Elixir, C/C++, 
@@ -16,7 +19,7 @@ Here are some of the industry level projects which I have worked on,
 
 ## Goibibo-MakeMyTrip
 
-[Goibibo Hotels](https://goibibo.com/hotels/)
+[Goibibo Hotels](https://goibibo.com/hotels/){:target="_blank"}
 
 *   Developed search results and payments page of desktop web and progressive web app (PWA) for Goibibo Hotels, which caters to more than 25k users per day.
 
@@ -24,19 +27,20 @@ Here are some of the industry level projects which I have worked on,
 
 *   Developed a web framework called Stencil which went beyond component-driven architecture to segregate business logic from UI in reusable libraries, reducing the man-hours for any future front-end developments (using Typescript, React.js, Redux and React Hooks).
 
-*   Collaborated with the product team to work towards increasing the conversion rate by 12% from the Search Results Page ([SRP](https://goibibo.com/hotels/hotels-in-goa-ct/)) to Payments Page by leveraging the power of AB Testing.
+*   Collaborated with the product team to work towards increasing the conversion rate by 12% from the Search Results Page ([SRP](https://goibibo.com/hotels/hotels-in-goa-ct/){:target="_blank"}) to Payments Page by leveraging the power of AB Testing.
 
-*   Presented a prototype for solving the problem of price mismatch in SSR rendered cached pages which was implemented across different verticals increasing the conversion rate by 9% for organic traffic. [Link](https://goibibo.com/hotels/hotels-in-goa-ct/)
+*   Presented a prototype for solving the problem of price mismatch in SSR rendered cached pages which was implemented across different verticals increasing the conversion rate by 9% for organic traffic. [Link](https://goibibo.com/hotels/hotels-in-goa-ct/){:target="_blank"}
 
 ## CoWrks
 
-*   Developed two customer facing products CoWrks and [Converge](https://converge.cowrks.com/) from scratch using React and Redux by adhering to component-driven architecture.
+*   Developed two customer facing products CoWrks and [Converge](https://converge.cowrks.com/){:target="_blank"} from scratch using React and Redux by adhering to component-driven architecture.
 
 *   Developed custom middlewares using Javascript and Redux-Thunk for tracking user engagement which helped in reducing the customer acquisition cost of the company.
 
 *   Optimised performance of web applications by introducing a dynamic architecture and reducing the bundle size by more than 50% using server-side and client-side code splitting.
 
-## HED Experts
+## HED Experts - xcelertor
+[xcelerator.ninja](https://xcelerator.ninja/){:target="_blank"}
 
 *   Took ownership and developed end to end core features like login, sign-up, payment gateway integration, and a simple recommendation engine (using React.js, Redux, HTML, CSS, Elixir, Phoenix and Postgres).
 
